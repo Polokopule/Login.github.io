@@ -2,7 +2,14 @@
     
     // Your web app's Firebase configuration
     var firebaseConfig = {
-        apiKey: YOUR-API-KEY-HERE
+        apiKey: "AIzaSyALZUxaueJh1YVfofLW2FRjOswf7WLeKYQ",
+  authDomain: "bdschoolchat.firebaseapp.com",
+  databaseURL: "https://bdschoolchat-default-rtdb.firebaseio.com",
+  projectId: "bdschoolchat",
+  storageBucket: "bdschoolchat.appspot.com",
+  messagingSenderId: "288265393950",
+  appId: "1:288265393950:web:9d1bb7d7c8e04452129b0f"
+
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
